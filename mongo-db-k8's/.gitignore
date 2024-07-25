@@ -1,0 +1,5 @@
+#secret files
+mongo-express-configMap.yaml
+mongo-secret.yaml
+#script files
+*.sh
